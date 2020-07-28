@@ -1,0 +1,6 @@
+.idea/*
+nohup.out
+python/.idea/*
+python/data/*/
+python/output*
+*.pyc

@@ -1,0 +1,2 @@
+* rewrite plugin to allow for 4th and 5th options
+* automate plugin export in /home/www/eeglab/plugins/
